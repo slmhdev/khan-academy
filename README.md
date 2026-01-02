@@ -1,9 +1,7 @@
 # khan-academy
-Personal challenge to work through Khan Academy math lessons to sharpen my skills
+Decided to do a fun and beneficial challenge for 2026! This repository will track my progress working through the math lessons on Khan Academy, starting from the fundamentals (literally Pre-K) to College level.
 
 ---
-
-Decided to do a fun and beneficial challenge for 2026! This repository will track my progress working through the math lessons on Khan Academy, starting from the fundamentals (literally Pre-K) to College level.
 
 The main goal is to get comfortable with math again (algebra, probability, discrete math, etc.) and make programming, CS, and blockchain concepts feel less foreign.
 ---
