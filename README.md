@@ -4,6 +4,7 @@ Decided to do a fun and beneficial challenge for 2026! This repository will trac
 ---
 
 The main goal is to get comfortable with math again (algebra, probability, discrete math, etc.) and make programming, CS, and blockchain concepts feel less foreign.
+
 ---
 
 ## About Repo
