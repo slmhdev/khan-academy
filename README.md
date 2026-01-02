@@ -17,7 +17,6 @@ The main goal is to get comfortable with math again (algebra, probability, discr
 ## How Notes Will Be Documented
 - Progress through Khan Academy lessons in order | Pre-K to College level
 - Write brief notes or reflections as needed (including images)
-- 
 ---
 
 ## Status
